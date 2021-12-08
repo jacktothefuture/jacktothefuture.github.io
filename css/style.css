@@ -35,7 +35,7 @@ main {
 h1 {
   font-family: 'Syne', serif;
   font-size: calc(1em + 3vw);
-  padding-bottom: .67em;
+  padding: 10px 0px .67em 10px;
   border-bottom: 1px solid;
   line-height: 1.3;
 }
