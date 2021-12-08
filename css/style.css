@@ -42,7 +42,7 @@ h1 {
 
 h2 {
   font-family: 'Syne', serif;
-  font-size: 18px;
+  font-size: 24px;
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
@@ -102,33 +102,6 @@ img {
   width: 100%;
 }
 
-.a {
-  color: #283618;
-}
-
-.c {
-
-}
-
-.time {
-  padding-left: 10px;
-  padding-top: 10px;
-  width: 20px;
-  height: auto;
-}
-
-.mins {
-  display: inline-block;
-  font-family: 'Syne', serif;
-  font-size: 14px;
-  font-weight: 500;
-  letter-spacing: 0.3px;
-  text-align: left;
-  color: #4a4a4a;
-  position: relative;
-  bottom: 5px;
-}
-
 .description {
   font-family: 'Nunito', serif;
   font-size: 18px;
@@ -137,8 +110,7 @@ img {
   letter-spacing: 0.1px;
   text-align: left;
   color: #4a4a4a;
-  padding: 0 20px 20px 20px;  
-  border-top: 1px solid #4a4a4a;
+  padding: 0 20px 20px 20px;
 }
 
 
