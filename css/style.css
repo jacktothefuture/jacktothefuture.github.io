@@ -54,7 +54,7 @@ h2 {
   letter-spacing: 0.3px;
   text-align: left;
   color: #237A57;
-  padding: 10px 0px 10px 10px;
+  padding: 10px 0px 10px 18px;
 }
 
 img {
@@ -134,6 +134,25 @@ footer div{
   align-content: center;
   padding: 10px 20px;
   color: rgba(255, 255, 255, 0.5);
+  justify-content: space between;
+}
+
+.copyright {
+  margin: auto 0;
+}
+
+.icons {
+  list-style-type: none;
+  display: inline-flex;
+}
+
+.icons a {
+  margin: 0 8px;
+  color: rgb(255, 255, 255, 0.5);
+}
+
+.icons a:hover {
+  color: rgb(255, 255, 255, 0.8);
 }
 
 @media all and (max-width:700px) {
@@ -145,6 +164,6 @@ footer div{
     font-size: 18px;
   }
   img {
-    height: 25vh;
+    height: 20vh;
   }
 }
